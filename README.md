@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate web developer, game developer, and space 
 - 🚀 I have a deep interest in aerospace engineering and space exploration.
 - 🌱 I’m currently learning and implementing AI technologies in web development.
 
-![Welcome GIF](https://media.giphy.com/media/26gsqWqPfr3uA47lK/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b7611cqlhrtehf5zytesyat64gjqy7w4cqurxqbtl2sbx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🔧 Technologies & Tools
 
@@ -18,6 +18,10 @@ Welcome to my GitHub! I'm a passionate web developer, game developer, and space 
 ## 📈 GitHub Stats
 
 ![Minuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minknasa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🌟 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/minknasa/count.svg)
 
 
 
